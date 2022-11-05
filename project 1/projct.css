@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body
+{
+    background: gray ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+.community{
+    background-color: rgb(255,253,253);
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    color: aqua;
+
+}
+.container{
+    
+    border-radius: 11px;
+    display: grid;
+}

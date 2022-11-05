@@ -1,0 +1,45 @@
+#first{
+    width: 100vw;
+    height: 100vh;
+   background-color: yellow;
+   border: solid 2px black;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+}
+
+#sp{
+    color: red;
+    justify-content:center;
+   
+}
+
+#sec{
+    width: 75vw;
+    height:75vh;
+    background-color: red;
+    border: solid 2px black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+
+}
+
+#third{
+    width: 50vw;
+    height: 50vh;
+    font-size: 20px;
+    text-align: center;
+    background-color: blue;
+    border: solid 2px black;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: fixed;
+    bottom: 20px;
+    
+
+    
+}
+

@@ -1,0 +1,28 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color: grey;
+}
+.saffron{
+    width: 38%;
+    height: 100px;
+    background-color: orange;
+}
+.white{
+    width: 38%;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.green{
+    width: 38%;
+    height: 100px;
+    background-color: green;
+}
+.white img{
+    height: 80px;
+    width: 80px;
+   
+}
